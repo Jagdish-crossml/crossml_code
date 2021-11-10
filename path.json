@@ -1,0 +1,33 @@
+{"fields":[
+    {
+        "name":"streetAddress",
+        "xpath":"//*[@id='streetAddress']",
+        "property_name":"streetAddress",
+        "type":"text"
+    },
+    {
+        "name":"secondaryAddress",
+        "xpath":"//*[@id='secondaryAddress']",
+        "property_name":"secondaryAddress",
+        "type":"text"
+    },
+    {
+        "name":"city",
+        "xpath":"//*[@id='city']",
+        "property_name":"city",
+        "type":"select-one"
+    },
+    {
+        "name":"state",
+        "xpath":"//*[@id='state']",
+        "property_name":"state",
+        "type":"text"
+    },
+    {
+        "name":"country",
+        "xpath":"//*[@id='country']",
+        "property_name":"country",
+        "type":"text"
+    }
+]
+}
